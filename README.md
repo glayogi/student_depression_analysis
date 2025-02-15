@@ -1,6 +1,7 @@
 # student_depression_analysis
 
-1. import the dataset into microsoft sql server
-2. modify gender column
-3. add age_group column
+Dataset is **Depression+Student+Dataset.csv**
+1. Import the dataset into microsoft sql server
+2. Modify gender column
+3. Add age_group column
 4. Add index and update depression column
