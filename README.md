@@ -5,3 +5,5 @@ Dataset is **Depression+Student+Dataset.csv**
 2. Modify gender column
 3. Add age_group column
 4. Add index and update depression column
+   **Then bring data of sql to tableau desktop**
+5 
