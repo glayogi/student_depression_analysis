@@ -6,7 +6,7 @@ Dataset is **Depression+Student+Dataset.csv**
 3. Add age_group column
 4. Add index and update depression column
 5.  **Then bring data of sql to tableau desktop**
-6.  then work on tableau desktop make analysis of student count with different different measurement then impoer data to tableau cloud i.e
+6.  then work on tableau desktop make analysis of student count with different different measurement like academic pressure , financial stress ,study satisfaction ,sleep duration etc then import data to tableau cloud i.e
    "https://prod-apnortheast-a.online.tableau.com/#/site/rawatyogendra689-50ebcfeda2/workbooks/2889161/views"
  
    
